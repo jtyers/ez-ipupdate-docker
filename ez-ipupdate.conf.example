@@ -1,0 +1,3 @@
+service-type=dyndns
+user=myusername:mypassword
+host=myhostname.dyndns.org
